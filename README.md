@@ -8,6 +8,7 @@ This project applies deep learning techniques to analyze and predict Tesla (TSLA
 
 - `Tesla.csv`: Historical stock price data (Open, High, Low, Close, Adj Close, Volume)
 - `tesla_analysis_Code.ipynb`: Jupyter Notebook with data exploration, preprocessing, LSTM modeling, and evaluation
+- `tesla_analysis_Code.py`: Exported Python script version of the notebook for cleaner code review and reproducibility
 - `Tesla_Project_Report.docx`: Final report with theoretical background, visualizations, model discussion, and business implications
 
 ---
